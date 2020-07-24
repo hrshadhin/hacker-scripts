@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 ##########################################################
-# Script Name	: email-checker.py
-# Description	: Check unseen email and show notification
+# Script Name   : email-checker.py
+# Description   : Check unseen email and show notification
 # Date          : 24/07/2020
 # Author        : H.R. Shadhin <dev@hrshadhin.me>
 # License       : GPL-3.0
