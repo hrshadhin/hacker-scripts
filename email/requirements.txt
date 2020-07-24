@@ -1,0 +1,2 @@
+python-dotenv
+git+https://github.com/projectdelphai/gmail
