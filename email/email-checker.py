@@ -70,8 +70,8 @@ def main():
             if total_unseen:
                 show_notification(account_name, f"{total_unseen} unseen email(s) have in your mailbox!")
 
-            # sleep for 3 sec
-            time.sleep(3)
+            # sleep for 10 sec
+            time.sleep(10)
 
 
 
